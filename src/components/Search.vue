@@ -14,7 +14,8 @@ import _ from 'lodash'
 export default {
   data () {
     return {
-      search_content: ''
+      search_content: '',
+      test: ''
     }
   },
   watch: {
